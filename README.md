@@ -3,7 +3,9 @@
   <img src="./assets/banner.svg" alt="Regina's Wave Banner" />
 </div>
 
-<h1 align="center">Hi, I’m Regina 👋</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Regina!" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/reginatam/">
