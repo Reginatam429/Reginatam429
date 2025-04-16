@@ -88,6 +88,12 @@ Built with: Node.js, Express, MongoDB, EJS
 </div>
 
 ---
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Reginatam429&theme=juicyfresh&margin-w=15&margin-h=15&title=Followers,Stars,Commits,PullRequest,Issues,Repositories" alt="GitHub trophies" />
+</div>
+
 
 ## 💬 Fun Facts
 
